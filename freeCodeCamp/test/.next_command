@@ -125,3 +125,5 @@ cd website
 ls --color=auto
 ls --color=auto -a
 cd .
+tocuh background.jpg
+touch background.jpg
