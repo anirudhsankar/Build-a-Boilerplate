@@ -110,3 +110,18 @@ touch .gitignore
 ls --color=auto
 ls --color=auto --help
 ls --color=auto -a
+cd ..
+cd .
+cd .
+__vsc_prompt_cmd_original
+cd .
+cd ..
+cd .
+cd .gitignore
+ls --color=auto
+cd project
+ls --color=auto
+cd website
+ls --color=auto
+ls --color=auto -a
+cd .
